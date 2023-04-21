@@ -2,7 +2,7 @@ API_ID       = 23162149
 API_HASH     = "e739433bbc9f55472234665ed5205ab8"
 BOT_TOKEN    = "6063379807:AAEZ24SKxbY-U-7D4ugx-6G5p3vVo8Ha-8M"
 SESSION      = "AQFhbSUAOwuudeHyCYU1RP_YXHfvKt5Wwy3ZjNGzbnOUQ5m6yXJ84Ak93htL4AePncqh4-pyqvRnaneBkU5UGCrrBqKnsYwYfiMPDRAlDSDbyffErapL_Ln0HQ35b8x5ZCLVaV2jYDs1MS1GnIKDsgVmqUuzVZ8ILE-V-D9TbrdQoCBSOe9wDXkqLZ5qPXSzdEgUep4goZkjyE6BVDYgQDR39x_Xzu-Q8mCIYuJN2EGP2dpU32EA_C9owMVdnJoKXfr7k3_x4WuaZdLJE1bi1SHdoxpMtQxOFt9X_EEC514R1UrugLrXZZCrrS61jV1e7BGekT0jWehr_Pnv09kqhfgiBFVxPAAAAAFQBPvpAA"
-DATABASE_URI = "mongodb+srv://TestLink:347027@cluster0.5xy9zcx.mongodb.net/?retryWrites=true&w=majority"
+DATABASE_URI = "mongodb+srv://ThunderFilterBot:347027@cluster0.pjmzk80.mongodb.net/?retryWrites=true&w=majority"
 LOG_CHANNEL  = -1001925979052
 ADMIN        = 5637471209
 CHANNEL      = "@RnpUpdate"
