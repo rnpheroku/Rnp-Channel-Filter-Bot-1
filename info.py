@@ -1,8 +1,8 @@
 API_ID       = 23162149
 API_HASH     = "e739433bbc9f55472234665ed5205ab8"
-BOT_TOKEN    = "6063379807:AAEZ24SKxbY-U-7D4ugx-6G5p3vVo8Ha-8M"
+BOT_TOKEN    = "6593942232:AAGsSWTtWwNOiHkWAkijJuFVqfiZ9eZ8ov0"
 SESSION      = "AQFhbSUAOwuudeHyCYU1RP_YXHfvKt5Wwy3ZjNGzbnOUQ5m6yXJ84Ak93htL4AePncqh4-pyqvRnaneBkU5UGCrrBqKnsYwYfiMPDRAlDSDbyffErapL_Ln0HQ35b8x5ZCLVaV2jYDs1MS1GnIKDsgVmqUuzVZ8ILE-V-D9TbrdQoCBSOe9wDXkqLZ5qPXSzdEgUep4goZkjyE6BVDYgQDR39x_Xzu-Q8mCIYuJN2EGP2dpU32EA_C9owMVdnJoKXfr7k3_x4WuaZdLJE1bi1SHdoxpMtQxOFt9X_EEC514R1UrugLrXZZCrrS61jV1e7BGekT0jWehr_Pnv09kqhfgiBFVxPAAAAAFQBPvpAA"
-DATABASE_URI = "mongodb+srv://ThunderFilterBot:347027@cluster0.pjmzk80.mongodb.net/?retryWrites=true&w=majority"
-LOG_CHANNEL  = -1001925979052
-ADMIN        = 5637471209
+DATABASE_URI = "mongodb+srv://ThunderFilterRobot:347027@cluster0.xvp1dsa.mongodb.net/?retryWrites=true&w=majority"
+LOG_CHANNEL  = -1002119198427
+ADMIN        = 6150580424
 CHANNEL      = "@RnpUpdate"
